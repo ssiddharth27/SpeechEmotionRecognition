@@ -1,0 +1,7 @@
+flask
+soundfile
+keras
+librosa
+numpy
+pickle
+pathlib
