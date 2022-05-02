@@ -3,5 +3,5 @@ soundfile
 keras
 librosa
 numpy
-pickle
+pickle5
 pathlib
