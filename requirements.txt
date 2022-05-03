@@ -1,7 +1,0 @@
-flask
-soundfile
-keras
-librosa
-numpy
-pickle-mixin
-pathlib
