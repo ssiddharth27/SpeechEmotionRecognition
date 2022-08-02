@@ -1,4 +1,4 @@
-# PRML-CSL2050 Course Project
+# Speech Emotion Recognition Project
 
 ## Problem Statement
 -------------------------------------------------
